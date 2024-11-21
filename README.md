@@ -42,7 +42,10 @@ Output: Tumor detected with its classification (e.g., Glioma, Meningioma, or No 
 ![image](https://github.com/user-attachments/assets/2f088d8c-8aac-4566-aeb2-139f4373560f)
 
 
-## Screenshot: (Insert accuracy/loss graph screenshot)
+## Screenshot: 
+
+![image](https://github.com/user-attachments/assets/a6530b5c-385b-436c-b357-250a1cddd510)
+
 Detection Accuracy: 97.5%
 
 
